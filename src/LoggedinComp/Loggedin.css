@@ -1,0 +1,30 @@
+.big-box {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-div {
+  background: rgb(245, 241, 241);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+button {
+  height: 3em;
+  width: 7em;
+  border-radius: 8px;
+  border: 1px solid black;
+  cursor: pointer;
+  background-color: rgb(139, 188, 221);
+  color: rgb(42, 43, 43);
+  font-size: 15px;
+}
+
+button:hover {
+  background-color: #6caef5;
+}
