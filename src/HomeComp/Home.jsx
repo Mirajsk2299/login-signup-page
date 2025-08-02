@@ -42,7 +42,7 @@ const Home = () => {
 
   return (
     <div className="main-page">
-      <h1 style={{ marginBottom: "20px" }}>Login and Signup Page</h1>
+      <h1 className="main-head" style={{ marginBottom: "20px" }}>Login and Signup Page</h1>
 
       <div className="main-container">
         <div className="login-box">
@@ -122,4 +122,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Home;  
