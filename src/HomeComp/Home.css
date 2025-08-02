@@ -25,11 +25,10 @@
   gap: 2em;
   flex-wrap: wrap;
   width: 60%;
-  min-height: 60%;
   height: auto;
   border: 5px solid rgb(133, 131, 131);
   border-radius: 45px;
-  padding: 2%;
+  padding: 4%;
   background-color: #f8f0f0;
 }
 
